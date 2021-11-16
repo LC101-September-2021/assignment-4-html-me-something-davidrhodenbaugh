@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+body {
+    background-color: lightgray;
+    margin: 8px;
+    display: block;
+  }
+
+  p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+  }
+
+  #mainHeading {
+      color:red
+  }
+
+
+html {
+    margin: auto;
+    width: 620px;
+}
+
+h2 {
+    padding-top: 42px;
+    padding-bottom: 24px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+blockquote {
+    background-color: darkgray;
+}
